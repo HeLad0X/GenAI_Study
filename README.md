@@ -1,22 +1,63 @@
-# GenAI_Study
+# 📚 Resources Branch – GenAI_Study
 
-Welcome to **GenAI_Study** — a personal study repository for mastering the foundational and advanced concepts of Machine Learning and Generative AI.
-
-This repository is organized into **multiple branches**, each dedicated to a specific course or resource collection:
-
----
-
-## 📚 Branches Overview
-
-- **Stanford_CS229** – Notes, assignments, and implementations based on Stanford's legendary Machine Learning course. Just checkout: https://github.com/maxim5/cs229-2018-autumn
-- **Cornell_CS5787** – Practical ML applications from Cornell's Applied Machine Learning course.
-- **Resources** – Curated readings, papers, cheat sheets, and useful external references for each topic. PS- Not putting the resources I have from my University Library.
-- **MachineLearning_Old** – Initial self-implementation of some ML algorithms with testing and preprocessing files.
+Welcome to the **Resources** branch of the `GenAI_Study` repository.  
+This branch is a curated collection of topics, study materials, course outlines, research papers, and book recommendations across the core domains of **Machine Learning (ML)**, **Deep Learning (DL)**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**.
 
 ---
 
-This `main` branch serves only as a placeholder — all actual content will be found in the respective branches.
+## 🔰 Purpose
 
-Feel free to explore, learn, and build 🚀
+To provide a **comprehensive learning reference** for:
+- Building a strong foundation in ML/DL/NLP
+- Preparing for advanced concepts in LLMs and Generative AI
+- Complementing hands-on coding with rigorous academic understanding
+- Keeping track of what’s been covered and what remains
 
 ---
+
+## 📂 Structure
+
+Each folder within this branch is dedicated to one topic:
+
+Resources/
+├── ML/ → Traditional Machine Learning
+├── DL/ → Deep Learning (Neural Networks, CNNs, RNNs, etc.)
+├── NLP/ → NLP fundamentals and pipelines
+├── LLM/ → Transformers, attention, pretraining, finetuning, RAG, etc.
+
+
+Inside each folder:
+
+- `topics.md` — A checklist of essential topics to study
+- `papers_books.md` — Recommended reading (papers, chapters, etc.)
+- (Optional) `courses.md` — Notable online courses and video resources
+
+---
+
+## 📘 Suggested Study Order
+
+1. **ML/** — Supervised, Unsupervised, Ensemble learning  
+2. **DL/** — Neural Networks, CNNs, optimization, regularization  
+3. **NLP/** — Embeddings, sequence modeling, language tasks  
+4. **LLM/** — Transformers, pretraining, fine-tuning, prompting, RAG, alignment
+
+---
+
+## 🧭 How to Use
+
+- Clone the repo and switch to the `Resources` branch
+- Navigate to each folder and study the `topics.md` as your checklist
+- Use `papers_books.md` for deeper dives when needed
+- Update your progress, add personal notes or summaries
+
+---
+
+## 🚀 Additional Ideas (Optional)
+
+- Use `progress.md` to log what you’ve covered and when
+- Include `.ipynb` notebooks if you're experimenting with code alongside theory
+- Bookmark useful YouTube videos or online lectures for each topic
+
+---
+
+Happy Learning, and may your gradient always descend 🧠🔥
