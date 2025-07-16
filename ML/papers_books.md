@@ -37,21 +37,75 @@ This guide complements your YouTube/self-learning path with **must-read** academ
 
 ## 📙 Unsupervised Learning
 
-### 📗 Book: *Pattern Recognition and Machine Learning* – Christopher Bishop  
-- Chapter 9 – Mixture Models and EM (for GMMs)
-- Chapter 12 – Sequential Data & HMMs (if needed for unsupervised time series)
+## 📘 General & Theory
 
-### 📄 Paper: **t-SNE** – van der Maaten & Hinton  
-→ [Link](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)  
-- Read Sections 1–3 to understand dimensionality reduction motivations and mechanics.
+### 📗 Book: *Pattern Recognition and Machine Learning* – Christopher M. Bishop  
+- **Chapter 9**: Mixture Models and the EM Algorithm  
+- **Chapter 12**: Sequential Data (if doing time series clustering)
+
+---
+
+## 📊 Clustering
+
+### 📄 Paper: *A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise (DBSCAN)* – Ester et al., 1996  
+→ [Link](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)  
+- 📌 Read Sections 1–4 for DBSCAN core concept.
+
+### 📄 Paper: *Spectral Clustering Tutorial* – von Luxburg, 2007  
+→ [Link](https://arxiv.org/abs/0711.0189)  
+- 📌 Focus on Sections 1–3 (theory and intuition).
+
+### 📄 Paper: *Clustering by Gaussian Mixture Models* – Dempster et al., 1977  
+→ [Link](https://www.jstor.org/stable/2984875)  
+- 📌 Key for understanding GMMs and Expectation-Maximization.
 
 ---
 
 ## 📐 Dimensionality Reduction
 
-### 📄 Paper: **A Tutorial on Principal Component Analysis** – Lindsay Smith  
+### 📄 Paper: *A Tutorial on Principal Component Analysis* – Lindsay Smith  
 → [Link](https://arxiv.org/pdf/1404.1100)  
-- An excellent conceptual and math breakdown of PCA.
+- 📌 Clean explanation of PCA, eigenvectors, and variance.
+
+### 📄 Paper: *Visualizing Data using t-SNE* – van der Maaten & Hinton  
+→ [Link](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)  
+- 📌 Read Sections 1–3 for understanding high-dimensional projection.
+
+### 📄 Paper: *UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction* – McInnes et al., 2018  
+→ [Link](https://arxiv.org/abs/1802.03426)  
+- 📌 Intro and Section 2 for comparison with t-SNE.
+
+---
+
+## 📦 Association Rule Learning
+
+### 📄 Paper: *Fast Algorithms for Mining Association Rules* – Agrawal & Srikant, 1994 (Apriori)  
+→ [Link](http://www.vldb.org/conf/1994/P487.PDF)  
+- 📌 Read the Intro and Algorithm sections.
+
+### 📄 Paper: *FP-Growth: Mining Frequent Patterns without Candidate Generation* – Han et al., 2000  
+→ [Link](https://doi.org/10.1145/335191.335372)  
+- 📌 Focus on the core algorithm and performance comparison with Apriori.
+
+---
+
+## ⚠️ Anomaly Detection
+
+### 📄 Paper: *Isolation Forest* – Liu, Ting, Zhou (2008)  
+→ [Link](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf)  
+- 📌 Sections 1–4 explain the key intuition and results.
+
+### 📄 Paper: *A Survey of Outlier Detection Methodologies* – Chandola et al., 2009  
+→ [Link](https://www.cs.umn.edu/sites/cs.umn.edu/files/tech_reports/07-017.pdf)  
+- 📌 Reference guide for many techniques, including One-Class SVM.
+
+---
+
+## 🧠 Bonus Book (Practical Focus)
+
+### 📘 *Hands-On Unsupervised Learning Using Python* – Ankur Patel  
+- Easy-to-follow with implementation examples  
+- Covers clustering, dimensionality reduction, anomaly detection
 
 ---
 
