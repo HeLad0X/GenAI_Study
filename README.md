@@ -11,6 +11,7 @@ This repository is organized into **multiple branches**, each dedicated to a spe
 - **Stanford_CS229** – Notes, assignments, and implementations based on Stanford's legendary Machine Learning course. Just checkout: https://github.com/maxim5/cs229-2018-autumn
 - **Cornell_CS5787** – Practical ML applications from Cornell's Applied Machine Learning course.
 - **Resources** – Curated readings, papers, cheat sheets, and useful external references for each topic.
+- **MachineLearning_Old** – Initial self-implementation of some ML algorithms with testing and preprocessing files.
 
 ---
 
