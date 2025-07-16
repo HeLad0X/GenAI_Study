@@ -1,0 +1,107 @@
+Supervised Learning
+1. Bias–Variance & Model Complexity
+Video Lecture: Machine Learning Fundamentals: Bias and Variance by StatQuest. 
+youtube.com
+
+Book/Paper: The Elements of Statistical Learning (Hastie et al.), Chapter 7: Model Assessment and Selection. 
+en.wikipedia.org
+
+2. Evaluation Metrics (ROC, AUC, F1, Precision/Recall)
+Video Lecture: ROC and AUC, Clearly Explained! by StatQuest. 
+youtube.com
+
+Book/Paper: Pattern Recognition and Machine Learning (Bishop), sections on performance measures. 
+m.youtube.com
+
+3. Cross-Validation
+Video Lecture: Machine Learning Fundamentals: Cross Validation by StatQuest. 
+youtube.com
+
+Book/Paper: An Introduction to Statistical Learning (James et al.), Chapter 5: Resampling Methods. 
+statlearning.com
+
+4. Regularization (L1, L2, ElasticNet)
+Video Lecture: Regularization Part 1: Ridge (L2) Regression & Part 2: Lasso (L1) Regression by StatQuest. 
+youtube.com
+youtube.com
+
+Book/Paper: The Elements of Statistical Learning, Chapter 3: Linear Methods for Regression. 
+hastie.su.domains
+
+5. Feature Engineering & Selection
+Video Lecture: Effect of Feature Engineering in Logistic Regression by StatQuest. 
+youtube.com
+
+Book: Feature Engineering for Machine Learning by Zheng & Casari, multiple chapters on transforms and selection. （widely cited resource）
+
+6. Hyperparameter Optimization
+Video Lecture: Hyperparameter Optimization: This Tutorial Is All You Need by Abhishek Thakur. 
+youtube.com
+
+Book/Paper: “Practical Bayesian Optimization of Machine Learning Algorithms” by Snoek et al., NIPS 2012.
+
+7. Stacking & Advanced Ensembles
+Video Lecture: Ensemble Method: Stacking (Stacked Generalization) by Data Science Dojo. 
+youtube.com
+
+Article: The Stacking Ensemble Method on Medium (Data Science), covers meta-learner construction. 
+medium.com
+
+8. Perceptron / Single-Layer Neural Net
+Video Lecture: Perceptron by ritvikmath (16min intro). 
+youtube.com
+
+Book: Pattern Recognition and Machine Learning (Bishop), Section 4.1 on the Perceptron.
+
+9. Class Imbalance Methods (SMOTE, Class Weighting)
+Video Lecture: (No StatQuest video) – see imbalanced-learn tutorial on YouTube.
+
+Wikipedia & Papers: “SMOTE: Synthetic Minority Over-sampling Technique” by Chawla et al., JAIR 2002; see Wikipedia overview. 
+en.wikipedia.org
+
+Unsupervised Learning
+1. Principal Component Analysis (PCA)
+Video Lecture: PCA by StatQuest. 
+youtube.com
+
+Book: Mathematics for Machine Learning (Deisenroth et al.), Chapter 5.
+
+2. t-SNE & UMAP
+Video Lecture: t-SNE by 3Blue1Brown; visually intuitive. 
+youtube.com
+
+Paper: Visualizing Data using t-SNE by van der Maaten & Hinton, JMLR 2008. 
+jmlr.org
+
+Paper: UMAP: Uniform Manifold Approximation and Projection, McInnes et al., arXiv 2018.
+
+3. Hierarchical Clustering
+Video Lecture: Hierarchical Clustering by StatQuest. 
+youtube.com
+
+Book: Pattern Recognition and Machine Learning, Chapter 9 on clustering.
+
+4. DBSCAN
+Video Lecture: DBSCAN by StatQuest. 
+en.wikipedia.org
+
+Original Paper: “A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise” by Ester et al., KDD 1996; see Wikipedia summary. 
+en.wikipedia.org
+
+5. Autoencoders
+Video Lecture: Autoencoder tutorial by StatQuest. 
+youtube.com
+
+Book: Deep Learning by Goodfellow et al., Chapter 14: Autoencoders; original paper “Reducing the Dimensionality of Data with Neural Networks” (Rumelhart et al., 1986).
+
+6. Anomaly Detection (Isolation Forest, One-Class SVM)
+Video Lecture: Anomaly Detection by StatQuest (search suggests coverage in playlists).
+
+Wikipedia & Paper: Isolation Forest by Liu et al., 2008; see Wikipedia for algorithm and scoring. 
+en.wikipedia.org
+
+7. Self-Organizing Maps (SOMs)
+Video Lecture: Self-Organizing Map by StatQuest. 
+youtube.com
+
+Original Paper: “Self-Organizing Map” by Kohonen, 1982; see Wikipedia for introduction.

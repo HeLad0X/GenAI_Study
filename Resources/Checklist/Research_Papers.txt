@@ -1,0 +1,38 @@
+CS229 - Machine Learning Theory:
+
+- Duda et al. – A Probabilistic Theory of Pattern Recognition
+- Cortes & Vapnik (1995) – Support-Vector Networks
+- Schölkopf & Smola (2002) – Learning with Kernels
+- Kohavi (1995) – A Study of Cross-Validation for Accuracy Estimation and Model Selection
+- Vapnik (1998) – Statistical Learning Theory
+- Breiman (2001) – Random Forests
+- Rumelhart et al. (1986) – Learning Representations by Backpropagation
+- Dempster, Laird & Rubin (1977) – EM Algorithm
+- Jolliffe – Principal Component Analysis
+
+
+Deep Learning - PadhAI:
+
+- Glorot & Bengio – Understanding the Difficulty of Training Deep Feedforward Neural Networks
+- Kingma & Ba (2014) – Adam: A Method for Stochastic Optimization
+- Ioffe & Szegedy (2015) – Batch Normalization: Accelerating Deep Network Training
+- Krizhevsky et al. (2012) – ImageNet Classification with Deep Convolutional Neural Networks
+- Cho et al. (2014) – Learning Phrase Representations using RNN Encoder–Decoder
+
+
+LLMs & NLP (Hugging Face + Papers):
+
+- Vaswani et al. (2017) – Attention Is All You Need
+- Devlin et al. (2018) – BERT: Pre-training of Deep Bidirectional Transformers
+- Sennrich et al. (2016) – Neural Machine Translation of Rare Words with Subword Units
+- Gebru et al. – Datasheets for Datasets
+- Hu et al. (2021) – LoRA: Low-Rank Adaptation of Large Language Models
+- Wei et al. (2022) – Chain-of-Thought Prompting Elicits Reasoning in LLMs
+- Rogers et al. – A Primer in BERTology: What We Know About BERT
+
+
+Generative AI + RAG:
+
+- OpenAI (2018) – Improving Language Understanding by Generative Pre-Training (GPT)
+- Lewis et al. (2020) – Retrieval-Augmented Generation for Knowledge-Intensive NLP (RAG)
+

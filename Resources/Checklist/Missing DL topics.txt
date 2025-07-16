@@ -1,0 +1,66 @@
+1. Attention & Transformers
+Video Lecture: The Narrated Transformer Language Model by Jay Alammar — breaks down multi-head attention, encoder/decoder stacks, and matrix math 
+youtube.com
+
+Paper: “Attention Is All You Need” by Vaswani et al. (NIPS 2017) 
+arxiv.org
+papers.neurips.cc
+
+2. Transfer Learning & Fine-Tuning Pretrained Models
+Video Lecture: Transfer Learning with PyTorch (DeepLearning.AI YouTube) — hands-on on how to freeze layers, replace heads, and adapt BERT/CNNs 
+youtube.com
+
+Book Chapter: Deep Learning by Goodfellow et al., Chapter 7 “Regularization for Deep Learning” (section on transfer learning)
+
+3. Generative Adversarial Networks (GANs)
+Video Lecture: Generative Adversarial Networks (GANs) by StatQuest 
+youtube.com
+
+Book Chapter & Paper: Deep Learning (Goodfellow et al.), Chapter 20 “Deep Generative Models”; original paper “Generative Adversarial Nets” (Goodfellow et al. 2014)
+
+4. Variational Autoencoders (VAEs) & Diffusion Models
+Video Lecture: Autoencoder tutorial by StatQuest (for VAE intuition) 
+amazon.com
+
+Paper: “Auto-Encoding Variational Bayes” by Kingma & Welling (ICLR 2014); “Denoising Diffusion Probabilistic Models” by Ho et al. (NeurIPS 2020)
+
+5. Advanced CNN Architectures & Transfer
+Video Lecture: Understanding ResNet by 3Blue1Brown (conceptual) 
+statquest.org
+
+Paper/Book: “Deep Residual Learning for Image Recognition” (He et al. CVPR 2016); Deep Learning (Goodfellow), Chapter 9 on CNNs
+
+6. Sequence-to-Sequence & Attention in RNNs
+Video Lecture: Sequence-to-Sequence Models by DeepLearning.AI 
+youtube.com
+
+Paper: “Neural Machine Translation by Jointly Learning to Align and Translate” (Bahdanau et al. ICLR 2015)
+
+7. Graph Neural Networks (GNNs)
+Video Lecture: Graph Neural Networks by DeepMind x UCL channel 
+jalammar.github.io
+
+Paper: “Semi-Supervised Classification with Graph Convolutional Networks” (Kipf & Welling, ICLR 2017)
+
+8. Self-Supervised & Contrastive Learning
+Video Lecture: SimCLR Explained by Yannic Kilcher 
+github.com
+
+Paper: “A Simple Framework for Contrastive Learning of Visual Representations” (Chen et al. ICML 2020)
+
+9. Object Detection & Segmentation
+Video Lecture: YOLOv3 by Aladdin Persson (PyTorch tutorial) 
+anote-ai.medium.com
+
+Paper: “You Only Look Once: Unified, Real-Time Object Detection” (Redmon et al. CVPR 2016)
+
+10. Explainable AI for DL
+Video Lecture: Grad-CAM by Aude Oliva’s MIT course lecture on interpretability 
+statquest.org
+
+Paper: “Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization” (Selvaraju et al. ICCV 2017)
+
+Next Steps
+Slot 1–2 days per topic into your Deep Learning block or Final Review block.
+
+Let me know if you’d like me to inject these into your CSV schedule with dates, or build a stand-alone DL roadmap!
