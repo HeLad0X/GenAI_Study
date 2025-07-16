@@ -8,96 +8,140 @@ This guide complements your YouTube/self-learning path with **must-read** academ
 
 ### 📗 Book: *The Elements of Statistical Learning* (ESL) – Hastie, Tibshirani, Friedman
 - Chapter 2 – Linear Regression
+- Chapter 3 – Feature Selection & Shrinkage Methods
 - Chapter 4 – Classification (Logistic Regression, LDA)
 - Chapter 9 – Additive Models, Trees, and Related Methods
 - Chapter 10 – Boosting and Additive Trees
 - Chapter 7 – Model Assessment and Selection
 
+### 📗 Book: *Pattern Recognition and Machine Learning* – Christopher Bishop  
+- Ch. 3 – Naive Bayes, Multinomial Logistic Regression  
+- Ch. 4 – SVM concepts (kernel methods, margin)
+
 ### 📄 Paper: **A Few Useful Things to Know About Machine Learning** – Pedro Domingos  
-→ [Link](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)  
-- A foundational paper explaining biases, overfitting, feature engineering, and practical caveats.
+→ [Link](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
 ### 📄 Paper: **Understanding the Bias-Variance Tradeoff** – Scott Fortmann-Roe  
-→ [Link](https://scott.fortmann-roe.com/docs/BiasVariance.html)  
-- Great intuitive plus mathematical coverage.
+→ [Link](https://scott.fortmann-roe.com/docs/BiasVariance.html)
+
+### 📄 Paper: **Support-Vector Networks** – Cortes & Vapnik, 1995  
+→ [Link](https://link.springer.com/article/10.1007/BF00994018)
+
+### 📄 Paper: **Random Forests** – Leo Breiman, 2001  
+→ [Link](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
 
 ---
 
 ## 📊 Ensemble Methods
 
 ### 📄 Paper: **The Strength of Weak Learnability** – Robert Schapire (1990)  
-→ [Link](https://www.cs.princeton.edu/~schapire/papers/strengthofweak.pdf)  
-- The foundation of boosting theory.
+→ [Link](https://www.cs.princeton.edu/~schapire/papers/strengthofweak.pdf)
 
 ### 📄 Paper: **XGBoost: A Scalable Tree Boosting System** – Chen & Guestrin (2016)  
-→ [Link](https://arxiv.org/abs/1603.02754)  
-- Read Sections 1–3, and skim the system design parts if doing large-scale training.
+→ [Link](https://arxiv.org/abs/1603.02754)
 
 ---
 
 ## 📙 Unsupervised Learning
 
-## 📘 General & Theory
-
-### 📗 Book: *Pattern Recognition and Machine Learning* – Christopher M. Bishop  
-- **Chapter 9**: Mixture Models and the EM Algorithm  
-- **Chapter 12**: Sequential Data (if doing time series clustering)
+### 📗 Book: *Pattern Recognition and Machine Learning* – Bishop  
+- Ch. 9 – Mixture Models and EM Algorithm  
+- Ch. 12 – Sequential Data & Time Series
 
 ---
 
 ## 📊 Clustering
 
 ### 📄 Paper: *A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise (DBSCAN)* – Ester et al., 1996  
-→ [Link](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)  
-- 📌 Read Sections 1–4 for DBSCAN core concept.
+→ [Link](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
 
 ### 📄 Paper: *Spectral Clustering Tutorial* – von Luxburg, 2007  
-→ [Link](https://arxiv.org/abs/0711.0189)  
-- 📌 Focus on Sections 1–3 (theory and intuition).
+→ [Link](https://arxiv.org/abs/0711.0189)
 
 ### 📄 Paper: *Clustering by Gaussian Mixture Models* – Dempster et al., 1977  
-→ [Link](https://www.jstor.org/stable/2984875)  
-- 📌 Key for understanding GMMs and Expectation-Maximization.
+→ [Link](https://www.jstor.org/stable/2984875)
 
 ---
 
 ## 📐 Dimensionality Reduction
 
 ### 📄 Paper: *A Tutorial on Principal Component Analysis* – Lindsay Smith  
-→ [Link](https://arxiv.org/pdf/1404.1100)  
-- 📌 Clean explanation of PCA, eigenvectors, and variance.
+→ [Link](https://arxiv.org/pdf/1404.1100)
 
 ### 📄 Paper: *Visualizing Data using t-SNE* – van der Maaten & Hinton  
-→ [Link](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)  
-- 📌 Read Sections 1–3 for understanding high-dimensional projection.
+→ [Link](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
 
 ### 📄 Paper: *UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction* – McInnes et al., 2018  
-→ [Link](https://arxiv.org/abs/1802.03426)  
-- 📌 Intro and Section 2 for comparison with t-SNE.
+→ [Link](https://arxiv.org/abs/1802.03426)
 
 ---
 
 ## 📦 Association Rule Learning
 
-### 📄 Paper: *Fast Algorithms for Mining Association Rules* – Agrawal & Srikant, 1994 (Apriori)  
-→ [Link](http://www.vldb.org/conf/1994/P487.PDF)  
-- 📌 Read the Intro and Algorithm sections.
+### 📄 Paper: *Fast Algorithms for Mining Association Rules* – Agrawal & Srikant, 1994  
+→ [Link](http://www.vldb.org/conf/1994/P487.PDF)
 
 ### 📄 Paper: *FP-Growth: Mining Frequent Patterns without Candidate Generation* – Han et al., 2000  
-→ [Link](https://doi.org/10.1145/335191.335372)  
-- 📌 Focus on the core algorithm and performance comparison with Apriori.
+→ [Link](https://doi.org/10.1145/335191.335372)
 
 ---
 
 ## ⚠️ Anomaly Detection
 
 ### 📄 Paper: *Isolation Forest* – Liu, Ting, Zhou (2008)  
-→ [Link](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf)  
-- 📌 Sections 1–4 explain the key intuition and results.
+→ [Link](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf)
 
 ### 📄 Paper: *A Survey of Outlier Detection Methodologies* – Chandola et al., 2009  
-→ [Link](https://www.cs.umn.edu/sites/cs.umn.edu/files/tech_reports/07-017.pdf)  
-- 📌 Reference guide for many techniques, including One-Class SVM.
+→ [Link](https://www.cs.umn.edu/sites/cs.umn.edu/files/tech_reports/07-017.pdf)
+
+---
+
+## ⏳ Time Series Clustering
+
+### 📄 Paper: *Time-Series Clustering – A Decade Review* – Aghabozorgi et al., 2015  
+→ [Link](https://doi.org/10.1016/j.ins.2014.09.043)
+
+### 📄 Paper: *Dynamic Time Warping Algorithm Review* – Müller, 2007  
+→ [Link](https://dl.acm.org/doi/10.1145/1187415.1187417)
+
+---
+
+## 🧠 Model Interpretability
+
+### 📄 Paper: *A Unified Approach to Interpreting Model Predictions (SHAP)* – Lundberg & Lee  
+→ [Link](https://arxiv.org/abs/1705.07874)
+
+### 📄 Paper: *"Why Should I Trust You?" Explaining the Predictions of Any Classifier (LIME)* – Ribeiro et al.  
+→ [Link](https://arxiv.org/abs/1602.04938)
+
+---
+
+## ⚙️ Feature Engineering & Imbalance Handling
+
+### 📄 Paper: *SMOTE: Synthetic Minority Over-sampling Technique* – Chawla et al., 2002  
+→ [Link](https://arxiv.org/abs/1106.1813)
+
+### 📄 Paper: *Feature Selection: A Data Perspective* – Li et al., 2017  
+→ [Link](https://arxiv.org/abs/1601.07996)
+
+---
+
+## 🧪 Experimentation & Optimization
+
+### 📄 Paper: *Data Leakage in ML* – Towards Data Science  
+→ [Link](https://towardsdatascience.com/data-leakage-in-machine-learning-what-is-it-and-how-to-avoid-it-96f1e5efac0b)
+
+### 📘 *Deep Learning* – Ian Goodfellow et al.  
+- Ch. 7 – Optimization and Early Stopping  
+- Ch. 14 – Autoencoders and Representation Learning
+
+---
+
+### ✅ How to Use This
+
+- Start with **book chapters** for theory  
+- Refer to **papers** for implementation-critical or complex topics  
+- Check these off in your branch’s `topics.md` file to track coverage
 
 ---
 
@@ -130,30 +174,6 @@ This guide complements your YouTube/self-learning path with **must-read** academ
 ### 📄 Paper: **Proximal Policy Optimization Algorithms** – Schulman et al. (OpenAI)  
 → [Link](https://arxiv.org/abs/1707.06347)  
 - Read Sections 1–3 and Appendix for core PPO logic.
-
----
-
-## 🧠 Neural Networks (Cross-cutting)
-
-### 📗 Book: *Deep Learning* – Ian Goodfellow, Yoshua Bengio, Aaron Courville  
-→ [Link](https://www.deeplearningbook.org/)  
-- Chapter 6 – Deep Feedforward Networks
-- Chapter 7 – Regularization
-- Chapter 8 – Optimization for Training
-- Chapter 11 – Practical Methodology
-- Chapter 10 – Sequence Modeling (RNNs)
-
----
-
-## 🧰 Model Interpretability
-
-### 📄 Paper: **A Unified Approach to Interpreting Model Predictions (SHAP)**  
-→ [Link](https://arxiv.org/abs/1705.07874)  
-- Read Abstract, Introduction, and Section 3 for SHAP values.
-
-### 📄 Paper: **"Why Should I Trust You?" Explaining the Predictions of Any Classifier (LIME)**  
-→ [Link](https://arxiv.org/abs/1602.04938)  
-- Read Abstract and Sections 1–3.
 
 ---
 
